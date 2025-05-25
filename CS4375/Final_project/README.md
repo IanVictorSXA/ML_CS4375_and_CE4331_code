@@ -7,6 +7,7 @@ Simple binary classification problem: 1 for positive texts and -1 for negative t
 Used 2 datasets from kaggle (see websites used)
 
 feature_extraction_visualization file:
+
     - Uploaded datasets
     - one of the datasets contained 3 classes (neutral texts), so all the rows associated with neutral class were erased
     - then the datasets were concatenated
@@ -15,6 +16,7 @@ feature_extraction_visualization file:
     - created the final 3 datasets for learning (bow, itidf, and trigram)
 
 naive_bayes file:
+
     - trained multinomial naive bayes
     - used 5 fold cross-validation
     - 20% of each dataset was saved for testing 
@@ -23,6 +25,7 @@ naive_bayes file:
     - there are 3 confusion matrices at the end of notebook
 
 logReg file:
+
     - trained logistic regression
     - used 5 fold cross-validation
     - 20% of each dataset was saved for testing 
@@ -33,6 +36,7 @@ all-data - dataset of financial news headline
 stock-data - dataset of stock tweets
 
 Name of the datasets created  (they were not uploaded for being too big):
+
     bow - bag of words dataset
     tfidf - text frequency inverse document frequency dataset
     trigram - 3-gram dataset
