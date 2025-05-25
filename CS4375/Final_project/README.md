@@ -4,7 +4,7 @@ Doing sentiment analysis on stock market data (stock tweets and financial news h
 
 Simple binary classification problem: 1 for positive texts and -1 for negative texts.
 
-Used 2 datasets from kaggle (see websites used)
+Used 2 datasets from kaggle (see all-data and stock_data files)
 
 feature_extraction_visualization file:
 
