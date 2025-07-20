@@ -7,3 +7,5 @@
 **ML_hw3_q3**: implementing K-Means and K-Medoids
 
 **ML_hw3_q5**: analyzing and comparing the bias, variance, and mean squared error of the Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor.
+
+**Final_project**: Doing sentiment analysis on stock market data (stock tweets and financial news headlines).
